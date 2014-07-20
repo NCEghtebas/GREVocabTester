@@ -498,3 +498,97 @@ Petulant||cranky, ill tempered, irritable, peevish
 Phantasm||an apparition, phantom
 Phlegmatic||calm, indifferent, not easily aroused
 Piquant||pungent, charmingly provocative 
+Placebo||a fake medication
+Plebeian||common, vulgar, low class
+Pluralism||a society in which distinct group function together, but retain their identities
+Portent||an omen, a sign of something coming, a foreshadowing
+Pregnant||highly significant, overflowing, rich in significance
+Prepossess||to cause to be preoccupied, to influence, positively, in advance
+Prescient||having foresight
+Prevaricate||to deviate from the truth
+Privation||lack of comforts, poverty, a state of being deprived
+Probity||honesty, uprightness
+Profligate||corrupt, degenerate, wildly extravagant
+Propinquity||nearness in place or time, kinship
+Protean||readily assuming different shapes or characters
+Provenance||origin, source, proof of posting ownership
+Prowess||exceptional skill or strength, military valor
+Prurient||lascivious, have lustful thoughts or desires
+Puissance||power, strength
+Punctilious||meticulously attentive to detail, exacting
+Putrefy||to rot
+Quiescence||state of rest or inactivity
+Raffish||jaunty, sporty, disreputable, vulgar, characterized by a careless Unconventionality
+Rapprochement||a reestablishment of good relations
+Rarefied||esoteric, interesting to only a few
+Recalcitrant||stubbornly defiant and resistant of authority
+Recidivism||the act of repeating an offense
+Recondite||hard to understand, abstruse, over ones head
+Redoubtable||formidable, fearsome, deserving of respect
+Remuneration||payment, recompense
+Repartee||a quick, witty reply, spirited conversation
+Reprobate||a morally unprincipled person, a scoundrel
+Reticent||restrained, reluctant, uncommunicative
+Ribald||vulgar or indecent language
+Rife||widespread, abounding, occurring frequently
+Rout||to put to flight, to scatter, to cause a huge defeat
+Rubric||heading, title, category
+Ruminate||to muse upon
+Sagacious||wise shrewd
+Sallow||a sickly, greenishyellow tone
+Sally||a rushing attack, witty repartee, a brief excursion
+Salubrious||favorable to health
+Sangfroid||extraordinary composure in the face of danger
+Sartorial||relating to dress or fashion
+Saturnine||sullen, gloomy, depressed
+Savant||a scholar, a very knowledgeable person
+Scofflaw||one who is continually breaking the law
+Scotch||to put an end to
+Secrete||to give off, to conceal
+Sententious||preachy, pompous, using wise sayings excessively
+Shibboleth||a distinctive word or behavior that typifies a group, a slogan
+Simper||to smile foolishly
+Sine||qua non  something that is an essential condition of
+Sinuous||winding, having many curves
+Slatternly||squalid, a slovenly woman
+Somnolent||drowsy, sleepy
+Spate||a sudden outburst
+Spelunker||a cave explorer
+Stalwart||unwavering, robust, sturdily built
+Striated||marked with thin lines or grooves
+Sturm||and drang  turmoil
+Sui||generis  unique, of its own kind, in a class by itself
+Supercilious||arrogant, overbearing, condescending
+Surreptitious||sneaky, secret
+Sycophant||a flatterer, a selfserving yesman
+Syllogism||a form oflogic in which major and minor premises are made and a conclusion drawn,
+Sylvan||forestlike, wooded
+Synergy||the combined force of two distinct elements that is more powerful then each alone
+Temerity||boldness, rashness, audacity
+Temporize||to compromise, to draw something out in order to gain time
+Tendentious||advancing a point of view, biased
+Timorous||fearful, easily frightened
+Titular||in title only
+Tony||fashionable, trendy, aristocratic
+Toothsome||tasty, sexually attractive, luscious
+Trice||an moment, a short period of time
+Truculent||hostile, aggressive, savage
+Umbrage||displeasure or resentment, shade
+Undulate||to move smoothly in a wavelike manner
+Usury||lending money at a high interest rate
+Vacuous||empty, lacking intelligence
+Vagary||whim, an unpredictable action
+Vainglorious||boastful, pompous
+Veneer||faade, coating, outward appearance
+Venerate||to honor, to worship, to respect
+Veracious||truthful, honest
+Verdant||covered with green plants, leafy
+Vicarious||acting for another, sharing in an experience of another through the Imagination
+Viscosity||a thick or sticky consistency of a liquid
+Vitriolic||corrosive, biting, bitterly scathing
+Wastrel||someone who wastes, a spendthrift
+Wizened||shriveled, withered
+Wont||custom, habit
+Zaftig||fullfigured, plump
+Zeitgeist||the mood or spirit of the times
+Zephyr||a gentle breeze
