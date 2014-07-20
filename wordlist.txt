@@ -198,3 +198,103 @@ Oust||to eject, to banish, to expel
 Overture||an opening move, a preliminary offer
 Palatable||pleasant to the taste, agreeable in feeling
 Paltry||a tiny or insignificant amount, meager, scant
+Pariah||an outcast
+Partition||a dividing wall, a division
+Paucity||scarcity, smallness in number or amount
+Pedantic||boringly, scholarly, academic in mode
+Penchant||a strong like for something, a predilection
+Permeate||to spread or seep through, to penetrate, to pervade
+Peruse||to study, to read over leisurely
+Philanthropy||good will towards all people, love of mankind, and act of generosity
+Pious||reverent, devout, dutiful, may at times be marked by hypocrisy
+Pique||to hurt or rile the feelings of someone, irritate
+Pivotal||crucial, something around which things turn
+Placate||to soothe, to appease with concessions
+Plausible||believable
+Poignant||emotionally moving
+Polemic||a powerful argument to defend a thesis
+Precept||a rule or principle to guide conduct
+Preclude||to make impossible, to shut out, to bar
+Pretentious||showy, selfimportant, make unjustifiable claims to excellence
+Prolific||marked by abundant production or offspring
+Prosaic||dull, unimaginative, lacking excitement
+Provincial||limited in outlook, narrow in ideas
+Prudent||careful, cautious
+Quaint||pleasantly oldfashioned, picturesque
+Quell||to put an end to, to squelch, to calm
+Quintessential||the most perfect example of
+Quixotic||–  foolishly impractical and idealistic
+Raucous||boisterous, harsh sounding, noisy and disorderly
+Rebuff||to snub, to refuse in a blunt or rude way
+Rebuke||to criticize or reprimand sharply
+Reciprocal||mutual, shared, interchangeable
+Relegate||to dismiss to a less prominent position, to banish
+Relic||an object associated with a saint, something that remains from the past
+Replenish||to refill, to supply once more
+Reprehensible||deserving of blame
+Reprove||to gently criticize
+Rescind||to cancel, to repeal
+Resilient||an ability to recover from, or adjust easily
+Respite||an interval of rest, a temporary delay
+Resplendent||brilliant, gloriously bright
+Robust||strong and healthy, vigorous
+Rustic||primitive, rural, lacking city comforts
+Saccharine||excessively sweet
+Sardonic||disdainful, scornfully mocking
+Scanty||minimal, hardly sufficient
+Scintillate||to sparkle, to gleam, to be animated or brilliant
+Servile||submissive, behaving like a slave
+Sloth||sluggish, laziness, indolence
+Spurious||false, fake, not genuine
+Stagnate||to lie inactive, to stay in one place
+Static||stationary, not changing or moving
+Steadfast||loyal, faithful
+Stoic||showing indifference to pain, apathetic
+Stratagem||a trick or deceptive scheme
+Strident||loud, harsh, grating
+Stymie||to get in the way of, to hinder, to block
+Succinct||concise, clearly expressed with a few words
+Surfeit||abundance, excessive amount
+Surmise||abundance, excessive amount
+Table||to remove from consideration
+Tedious||boring, tiresome
+Teem||to swarm, to be inundated, to become full to overflowing
+Temperance||habitual moderation, the avoidance of excess
+Tenet||a principle, doctrine or belief held as so by a group
+Tentative||uncertain, temporary not fully worked out
+Tenuous||flimsy,
+Tepid||lukewarm, unenthusiastic, halfhearted
+Terse||concise, brief, free of extra word
+Theology||the study of God or religion
+Thwart||to prevent from being accomplished, to frustrate, to hinder
+Tirade||a long and angry speech
+Tonic||a refreshing drink, something that invigorates
+Tortuous||winding, twisting, full of curves
+Tout||to brag publicly, to praise highly
+Transfix||to cause to stand motionless with awe or other intense emotion
+Travesty||a parody, an imitation that makes crude fun of something
+Trite||unoriginal, overused, clichd, commonplace
+Trivial||unimportant, insignificant
+Tryst||a secret meeting of lovers
+Tumult||noisy commotion, uproar
+Turpitude||shameful wickedness, evil, depravity
+Undermine||to weaken the support of, to injure in a slow or sneaky way
+Unilateral||on one side alone
+Urbane||suave, sophisticated, polished
+Usurp||to size wrongfully
+Vapid||tasteless, dull
+Vehement||intense, forceful marked by strong feeling
+Verbose||wordy
+Vestige||the remains of something that no longer exists
+Viable||workable, capable of living and growing, able to succeed
+VIE||to complete, to contest
+Vilify||to defame, to slander, to blacken the character of
+Virulent||extremely poisonous, malignant, full of hate
+Vivacious||lively, spirited
+Volatile||explosive, tend to burn quickly
+Wanton||immoral, lewd, deliberate maliciousness, having no regards for others
+Waver||to be indecisive or inconstant, to fluctuate in opinion
+Winsome||charming, sweetly engaging
+Wistful||yearning, sad longing, a gentle desire
+Zealot||a person with great enthusiasm for and commitment to a cause
+Zenith||the highest point  
